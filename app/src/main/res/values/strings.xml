@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MeusConvidados</string>
+
+    <string name="navigation_drawer_open">Abrir Menu</string>
+    <string name="navigation_drawer_close">Fechar Menu</string>
+
+    <string name="configuracoes">Configurações</string>
+    <string name="ausentes">Ausentes</string>
+    <string name="presentes">Presentes</string>
+    <string name="todos">Todos</string>
+</resources>
